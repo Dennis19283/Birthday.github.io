@@ -2,7 +2,7 @@
 
 ### Wish someone special happy birthday in a special way.
 
-#### [See it Live](https://faahim.github.io/happy-birthday/)
+#### [See it Live](https://dennis19283.github.io/Birthday.github.io/)
 
 
 I've used plain HTML, CSS and JavaScript with [GSAP](https://greensock.com/gsap) for animations.
